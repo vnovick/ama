@@ -15,6 +15,7 @@ Anything means anything. Personal questions. Money. Life. Code. Whatever.
 - Bugs & feature requests should be opened on the relevant issue tracker.
 - Support questions are better asked on Stack Overflow.
 - Be civil and polite :)
+- I will not help you with a question that goes against my personal moral standards.
 
 -
 
