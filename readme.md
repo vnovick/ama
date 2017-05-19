@@ -2,6 +2,8 @@
 
 ## [Ask a question](https://github.com/kentcdodds/ama/issues/new) &nbsp;&nbsp;&nbsp; [Read questions](https://github.com/kentcdodds/ama/issues?q=is%3Aissue+is%3Aclosed)
 
+See my [favorite/popular/frequently asked](https://github.com/kentcdodds/ama/issues?utf8=%E2%9C%93&q=label%3A%22favorite%2Fpopular%2Ffrequently%20asked%22%20) questions.
+
 I get a lot of questions by email. This way anyone can read the answer.
 
 Anything means anything. Personal questions. Money. Life. Code. Whatever.
