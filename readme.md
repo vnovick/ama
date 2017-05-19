@@ -4,7 +4,9 @@
 
 See my [favorite/popular/frequently asked](https://github.com/kentcdodds/ama/issues?utf8=%E2%9C%93&q=label%3A%22favorite%2Fpopular%2Ffrequently%20asked%22%20) questions.
 
-I get a lot of questions by email. This way anyone can read the answer.
+I get a lot of questions by email. This way anyone can read the answer. It's often the only way I can justify taking the time to answer. Read: ["Hi, thanks for reaching out to me 👋"](https://medium.com/@kentcdodds/hi-thanks-for-reaching-out-to-me-d970e7e6632).
+
+Subscribe for updates by [watching the repo](https://github.com/kentcdodds/ama/watchers).
 
 Anything means anything. Personal questions. Money. Life. Code. Whatever.
 
