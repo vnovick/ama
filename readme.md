@@ -4,6 +4,8 @@
 
 See my [favorite/popular/frequently asked](https://github.com/kentcdodds/ama/issues?utf8=%E2%9C%93&q=label%3A%22favorite%2Fpopular%2Ffrequently%20asked%22%20) questions.
 
+<a href="https://app.codesponsor.io/link/PKGFLnhDiFvsUA5P4kAXfiPs/kentcdodds/ama" rel="nofollow"><img src="https://app.codesponsor.io/embed/PKGFLnhDiFvsUA5P4kAXfiPs/kentcdodds/ama.svg" style="width: 888px; height: 68px;" alt="Sponsor" /></a>
+
 I get a lot of questions by email. This way anyone can read the answer.
 
 **If you'd rather not ask your question publicly**, send me an email (address below) and I can post the question anonymously for you.
