@@ -28,7 +28,7 @@ Anything means anything. Personal questions. Money. Life. Code. Whatever.
 All questions are welcome but not all questions will be answered by me. Some questions may be answered by volunteers helping me. Others may not be answered at all. To increase the likelyhood of me answering your question it should:
 
 - Be relevant to me or my opinions in some way and not something anyone could answer (those are better served by [StackOverflow](https://stackoverflow.com/), etc).
-- Be helpful or interesting for other people. I prefer this medium to email because my time spent answering these questions helps more people. Answers that only help the asker are not an efficient use of my time and may not be answered. Read: ["Hi, thanks for reaching out to me 👋"](https://medium.com/@kentcdodds/hi-thanks-for-reaching-out-to-me-d970e7e6632).
+- Be helpful or interesting for other people. I prefer this medium to email because my time spent answering these questions helps more people. Answers that only help the asker are not an efficient use of my time and may not be answered. Read: ["Hi, thanks for reaching out to me 👋"](http://kcd.im/no-time).
 
 ##### Answer format
 
