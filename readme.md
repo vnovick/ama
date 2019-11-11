@@ -6,7 +6,7 @@ See my [favorite/popular/frequently asked](https://github.com/kentcdodds/ama/iss
 
 I get a lot of questions by email but responding to an email only helps one person. This way anyone can read the answer.
 
-**If you'd rather not ask your question publicly**, send me an [email](mailto:kent+ama@doddsfamily.us) and I can post the question anonymously for you.
+**If you'd rather not ask your question publicly**, send me an [email](mailto:me+ama@kentcdodds.com) and I can post the question anonymously for you.
 
 Subscribe for updates by [watching the repo](https://github.com/kentcdodds/ama/subscription).
 
